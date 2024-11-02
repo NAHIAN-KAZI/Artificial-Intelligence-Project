@@ -7,13 +7,14 @@ This project involves an in-depth analysis of a dataset, applying preprocessing 
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Data Preparation](#data-preparation)
-3. [Exploratory Data Analysis](#exploratory-data-analysis)
-4. [Model Training and Evaluation](#model-training-and-evaluation)
-5. [Requirements](#requirements)
-6. [Usage](#usage)
-7. [License](#license)
-8. [Contact](#contact)
+2.  [Dataset](#dataset)
+3. [Data Preparation](#data-preparation)
+4. [Exploratory Data Analysis](#exploratory-data-analysis)
+5. [Model Training and Evaluation](#model-training-and-evaluation)
+6. [Requirements](#requirements)
+7. [Usage](#usage)
+8. [License](#license)
+9. [Contact](#contact)
 
 ### Project Overview
 
@@ -40,6 +41,8 @@ The following analyses are performed on the dataset:
 - Sample data display for initial inspection
 - Categorical feature identification
 - Null/missing value checks
+
+
 
 ### Model Training and Evaluation
 
