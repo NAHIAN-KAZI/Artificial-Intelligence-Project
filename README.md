@@ -1,6 +1,5 @@
 # Artificial-Intelligence-Project
 Premier League Win Predictor
-# Artificial Intelligence Project
 
 This project involves an in-depth analysis of a dataset, applying preprocessing steps to handle missing data, and building machine learning models to classify data. The project uses various Python libraries for data manipulation, visualization, and model evaluation, with a focus on using the Gradient Boosting Classifier for predictive modeling.
 
